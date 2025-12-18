@@ -1,4 +1,9 @@
+* {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
 #Title {
+    font-family: "Times New Roman", Times, serif;
     text-align: center;
     background-color: goldenrod;
     color: black;
