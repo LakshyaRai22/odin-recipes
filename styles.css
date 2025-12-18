@@ -4,11 +4,11 @@
     background-color: goldenrod;
     color: black;
     padding: 18px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 500px;
-    margin-right: 500px;
-    border: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-style: groove;
+    border-color: maroon;
+    border-width: 10px;
 }
 
 .Headings {
